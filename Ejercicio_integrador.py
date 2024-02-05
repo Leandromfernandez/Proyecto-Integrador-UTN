@@ -72,9 +72,6 @@ else:
     print(f'EL barbijo mas caro es: {barbijo_max}')
     print(f'Cantidad de barbijos mas caros: {acumulador_barbijo_max}')
 
-""" if acumulador_barbijo_max <= 0 :
-    print(f'No hay barbijos')  """
-
 if unidades_max == None :
     print('No hay stock')
 else:
